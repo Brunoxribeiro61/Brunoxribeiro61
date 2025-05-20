@@ -31,7 +31,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando mi
 ---
 
 Vamos conectar? Sinta-se à vontade para acompanhar meus estudos e projetos aqui no GitHub!
-## Hi there 👋
+## Nós vemos por ai ! 👋
 
 <!--
 **Brunoxribeiro61/Brunoxribeiro61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
