@@ -1,6 +1,8 @@
 # Olá, eu sou o Bruno 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando minha jornada no mundo da programação. Tenho muita vontade de aprender, explorar novas tecnologias e colaborar em projetos que me ajudem a evoluir como desenvolvedor.
+[English below ⬇️](#hello-im-bruno-)
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando minha jornada no mundo da programação. Tenho muita vontade de aprender, explorar novas tecnologias e colaborar em projetos.
 
 ## 🚀 Sobre mim
 
@@ -31,19 +33,41 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando mi
 ---
 
 Vamos conectar? Sinta-se à vontade para acompanhar meus estudos e projetos aqui no GitHub!
-## Nos vemos por ai ! 👋
+## Nos vemos por aí! 👋
 
-<!--
-**Brunoxribeiro61/Brunoxribeiro61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Hello, I'm Bruno 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Systems Analysis and Development** student starting my journey in the programming world. I'm eager to learn, explore new technologies, and collaborate on projects.
+
+## 🚀 About me
+
+- 🎓 Currently studying for a degree in Systems Analysis and Development.
+- 💻 Learning programming logic, algorithms, and software development fundamentals.
+- 🌱 Interested in web and mobile development, and everything related to technology.
+- 🔍 Always seeking new challenges and opportunities to put my knowledge into practice.
+
+## 🛠️ Technologies I'm studying
+
+- HTML5 & CSS3
+- JavaScript (basic)
+- Programming Logic
+- Git & GitHub
+
+## 📚 Goals
+
+- Learn new languages and frameworks.
+- Participate in collaborative projects and contribute to the community.
+- Constantly evolve as a person and professional.
+
+## ✨ Fun facts
+
+- Always willing to learn something new.
+- I enjoy working in teams and sharing knowledge.
+- I believe that practice makes perfect!
+
+---
+
+Let's connect? Feel free to follow my studies and projects here on GitHub!
+## See you around! 👋
